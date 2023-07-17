@@ -5,6 +5,7 @@ C, JAVA, PYTHON, JAVASCRIPT, PHP
 HTML, CSS, XML
 ##
 Yaptığım projelerden bazıları ;
+
 html, css, php kullanarak bir web sayfası oluşturma
 
 javascript, css ve html kullanarak 2D web tabanlı bir oyun geliştirme
