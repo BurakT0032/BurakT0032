@@ -12,6 +12,4 @@ javascript, css ve html kullanarak 2D web tabanlı bir oyun geliştirme
 
 java kullanarak Smith-Waterman Local Alignment algoritmasını tepsit eden skoru hesaplayan, sekans eşleştirmesi ve skor matrisini oluşturan bir program
 ##
-Buna benzer projeler aktif olarak bilgisayarımda bulunmakta bazılarını yüklemiş olsam da tamamını en kısa zamanda yükleyeceğim.
-##
 İletişim : burakt0032@gmail.com
