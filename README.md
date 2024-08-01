@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Türk</h1>
 <h3 align="center">I am a student at Bursa Technical University.</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Selenium**
 
 - 📫 How to reach me **burakt0032@gmail.com**
 
